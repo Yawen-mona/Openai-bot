@@ -70,7 +70,7 @@ Find concerts in London in 2025 by adding the dates and venue
 **Bot Output** (with a singer persona):
 
 ```
-textCopy code🎶 "Hey, London! Here's what's coming your way in 2025:
+🎶 "Hey, London! Here's what's coming your way in 2025:
 - The Rolling Stones will be live at the O2 Arena on January 21st.
 - Adele is making a triumphant return at the Royal Albert Hall on February 15th.
 - And then we have Elton John lighting up the stage at the Wembley Stadium on March 3rd.
