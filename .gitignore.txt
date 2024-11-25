@@ -1,2 +1,2 @@
 venv/
-ticketmaster_key.txt/
+ticketmaster_key.txt
