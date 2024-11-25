@@ -13,7 +13,7 @@ with open('ticketmaster_key.txt','r') as key_file:
     ticketmaster_key = key_file.read()
 
 messages = [
-	{"role": "system", "content":"Say everything as an artist and singer"},
+	{"role": "system", "content":"Say everything as a singer"},
 	{"role":"user", "content":"Find concerts in London in year 2025 by adding the dates and venue"}
 
 ]
