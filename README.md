@@ -1,6 +1,6 @@
 # Concert Finder Bot
 
-This repository contains a Python-based bot that fetches concert information in London and provides entertaining responses, using OpenAI's GPT-4 model and the Ticketmaster API. The bot responds to concert-related queries with a fun and engaging tone, such as impersonating a singer or a stand-up comedian.
+This repository contains a Python-based bot that fetches concert information in London and provides entertaining responses, using OpenAI's GPT-4 model and the Ticketmaster API. The bot responds to concert-related queries with a fun and engaging tone, such as impersonating a singer.
 
 ------
 
